@@ -1,11 +1,11 @@
 ---
 
 layout: post                    # 使用的布局（不需要改）
-title: "{args.name}"              # 标题 
-subtitle: Hello World, Hello Blog #副标题
-date: {datetime.now().strftime('%Y-%m-%d')}             # 时间
+title: "Github Pages搭建教程"              # 标题 
+subtitle: 五分钟搭建属于自己的博客 #副标题
+date: 2022-01-05             # 时间
 author: Leowxg                      # 作者
-header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+header-img: img/post-bg-keybord.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 教程
