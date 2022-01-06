@@ -4,7 +4,7 @@ SEOTitle: xg的博客 | XG Blog
 header-img: img/post-bg-desk.jpg
 email: 1393691752a@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, xg的博客, qiubaiying, xg, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, xg的博客, xg, iOS, Apple, iPhone"
 url: "https://wxg0101.github.io/"          # your host, for absolute URL
 baseurl: "/xgblog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wxg0101/xgblog.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wxg0101/xgblog.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/psb (8).jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
