@@ -17,17 +17,6 @@ if __name__=="__main__":
     f =  open(filename, "w",encoding='utf-8')
     f.write(
         f"""---
-#layout: post
-title: "{args.name}"
-#date:   {datetime.now().strftime('%Y-%m-%d')}
-categories: [learning]
-#tags: []
-#pinned: false
-#toc: true
-#uthor: Leowxg
-comments: true
----
----
 layout: post                    # 使用的布局（不需要改）
 title: "{args.name}"              # 标题 
 subtitle: Hello World, Hello Blog #副标题
