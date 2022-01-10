@@ -100,7 +100,7 @@ service-worker: true
 friends: [
    {
         title: "WCG",
-        herf: "https://pikachu-wcg.github.io/pikachu_wcg/"
+        href: "https://pikachu-wcg.github.io/pikachu_wcg/"
    },{
         title: "Apple",
         href: "https://apple.com"
