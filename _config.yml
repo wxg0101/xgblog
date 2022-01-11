@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-#disqus_username: leowxg
+disqus_username: leowxg
 
 # Gitalk
 gitalk:
@@ -99,6 +99,9 @@ service-worker: true
 # Friends
 friends: [
    {
+        title: "WCG",
+        href: "https://pikachu-wcg.github.io/pikachu_wcg/"
+   },{
         title: "Apple",
         href: "https://apple.com"
     },{
