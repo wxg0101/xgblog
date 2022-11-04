@@ -38,5 +38,5 @@ tags:                               #标签
         )
     f.close()
     time.sleep(3)
-    os.system('D:\\"Program Files"\Typora\\typora.exe {}'.format(
+    os.system('D:\\programdata\\Typora\\Typora.exe {}'.format(
         filename))
